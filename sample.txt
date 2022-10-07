@@ -1,1 +1,1 @@
-this is asample text for Git lesson
+this is a modified first sample text file for Git lesson
